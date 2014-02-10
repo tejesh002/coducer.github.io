@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 *~
 #*
 _site
 .ruby-version
 .ruby-gemset
 .DS_Store
+=======
+_site/
+>>>>>>> e958361cd58d78bea5c091c763c31ef4fae8a6c1
